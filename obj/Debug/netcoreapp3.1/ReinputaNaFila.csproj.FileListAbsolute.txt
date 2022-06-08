@@ -1,0 +1,109 @@
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.exe
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csprojAssemblyReference.cache
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.AssemblyInfoInputs.cache
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.AssemblyInfo.cs
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.CopyComplete
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.deps.json
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.runtimeconfig.json
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.runtimeconfig.dev.json
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.pdb
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.Azure.ServiceBus.Core.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.pdb
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.genruntimeconfig.cache
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\yuricbn\Documents\Problemas\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.CoreCompileInputs.cache
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.exe
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.deps.json
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.runtimeconfig.json
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.runtimeconfig.dev.json
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.pdb
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.Azure.ServiceBus.Core.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csprojAssemblyReference.cache
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.AssemblyInfoInputs.cache
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.AssemblyInfo.cs
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.CoreCompileInputs.cache
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.CopyComplete
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.dll
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.pdb
+C:\Users\leonardobg\Downloads\ReinputaNaFila (1)\ReinputaNaFila\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.genruntimeconfig.cache
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.exe
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.deps.json
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.runtimeconfig.json
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.runtimeconfig.dev.json
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\ReinputaNaFila.pdb
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.Azure.ServiceBus.Core.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.AssemblyInfoInputs.cache
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.AssemblyInfo.cs
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.CoreCompileInputs.cache
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.CopyComplete
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.dll
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.pdb
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.genruntimeconfig.cache
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.csproj.AssemblyReference.cache
+C:\Projetos\ReinputaFila-Reprocessamento\ReinputaNaFila\obj\Debug\netcoreapp3.1\ReinputaNaFila.GeneratedMSBuildEditorConfig.editorconfig
